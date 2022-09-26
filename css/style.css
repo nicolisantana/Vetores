@@ -1,0 +1,14 @@
+body{
+    background-color: #fcd7d7;
+}
+
+.img{
+    width: 550px;
+}
+
+.font{ 
+    color: #75406e;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 250%;
+}
